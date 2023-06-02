@@ -72,7 +72,7 @@
 - This is a react project for birhtday reminder
 - I have created this React Project to Check Upcoming birthdays and wish them properly.
 - Project is made with React.JS
-- Project is created by Syed Ans Shah ( https://github.com/syedansshah )
+- Project is created by Syed Ans Shah ( https://github.com/syedansshah ) 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
