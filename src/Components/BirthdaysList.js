@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import People from '../Data/people';
 import List from './List';
+import Button from '@mui/material/Button';
 
 function BirhtdayList() {
     const [people,setPeople] = useState(People)
@@ -9,9 +10,8 @@ function BirhtdayList() {
         <section className='container'>
           <h3>{people.length} Birhtday today </h3>
           <List people={people}></List>
-          
-          <button style={{"backgroundColor":"#ff8b00"}} onClick={()=>setPeople([])}> Clear all</button>
-          <button onClick={()=>setPeople(People)}> Reload</button>
+          <Button style={{"backgroundColor":"#ff8b00"} } variant="contained" onClick={()=>setPeople([])}>Clear all</Button>
+          <Button variant="contained" onClick={()=>setPeople(People)}>Reload</Button>
         </section>
       </main>
   
