@@ -68,6 +68,14 @@ export default [
   },
   {
     id: '008',
+    name: 'Umar Lodhi',
+    age: 29,
+    dob: "07-15",
+    image:
+    'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+  },
+  {
+    id: '009',
     name: 'Irfan Hayat',
     age: 29,
     dob: "07-24",
@@ -75,7 +83,15 @@ export default [
     'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
   },
   {
-    id: '009',
+    id: '010',
+    name: ' Abdullah abrar',
+    age: 29,
+    dob: "09-13",
+    image:
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+  },
+  {
+    id: '011',
     name: 'Nabeel anjum',
     age: 29,
     dob: "10-15",
@@ -83,7 +99,7 @@ export default [
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
   },
   {
-    id: '010',
+    id: '012',
     name: 'Aakash Kumar',
     age: 29,
     dob: "11-10",
@@ -91,7 +107,7 @@ export default [
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
   },
   {
-    id: '011',
+    id: '013',
     name: 'Amar Rasul',
     age: 29,
     dob: "11-18",
@@ -99,7 +115,7 @@ export default [
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
   },
   {
-    id: '011',
+    id: '014',
     name: 'Abdul Waheed',
     age: 29,
     dob: "12-22",
