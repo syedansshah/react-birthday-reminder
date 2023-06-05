@@ -6,8 +6,7 @@ const List = ({people}) => {
   
   return (
     <>
-      <h2>list component</h2>
-      {people.map((person)=>{
+      {people?.map((person)=>{
         const {id, name, age, image, dob} = person;
         
         let profilePic = process.env.IMG_URL + 'userImg.JPG';
