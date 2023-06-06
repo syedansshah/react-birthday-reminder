@@ -152,6 +152,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Add Changelog
 - [x] Add back to top links
+- [ ] Add Admin side to add user and their birthdays on frontEnd
+- [ ] Add Server side to add user and their birthdays on Backend 
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
